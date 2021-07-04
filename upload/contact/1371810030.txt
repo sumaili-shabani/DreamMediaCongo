@@ -1,0 +1,70 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [QSA,L]
+==========================================================
+
+
+AIzaSyCTCcvI3CNshoSfzO85NWBl_6h4owcjHPw
+
+Paroles de la chanson C'est la Vie par Henri Dikongué
+Une naissance, un cri
+Une douleur, un bruit
+Un cœur très doux ami
+Un cœur qui bat, la vie
+Je voudrais m’arrêter, sur ce bonheur qui m’est donné
+Cette force jaillie de sa fragilité ne finit pas de m’étonner
+Balayée balayée, balayée, laissez ma détresse où elle est
+Tout parait beau tout parait léger
+Comme ci le monde avait changé
+
+C’est la vie, la vie la vie oh la vie é
+Elle est bien la divine amie,
+Nous dévisage et nous sourit
+
+
+
+C’est la vie, la vie, la vie oh, la vie é
+Elle est bien la divine amie,
+Nous dévisage et nous sourit
+
+Une caresse, une joie
+Un sourire, une voix
+Une main tremblante et moi
+Une âme qui vit de toi
+Je voudrais dire merci
+Pour ce moment qui me grandit
+C’est comme si je n’étais jamais né
+Avant cet enfant nouveau-né
+Balayées balayées, balayées les blessures de mon passé
+Tout parait beau, tout parait léger,
+Comme si le monde allait changer
+
+C’est la vie, la vie, la vie oh la vie é
+
+C’est du mystère, de la magie,
+Je me sens père, ça me ravit
+C’est la vie, la vie, la vie oh, la vie é
+Elle est bien la divine amie,
+Me donne des ailes et des envies
+
+C’est la vie, la vie la vie oh la vie é
+Elle est bien la divine amie,
+Nous dévisage et nous sourit
+C’est la vie, la vie, la vie oh, la vie é
+Elle est bien la divine amie,
+Nous dévisage et nous sourit
+Cette présence qui fait aussi, une existence de ma vie
+
+C’est la vie, la vie, la vie oh, la vie é
+Elle est bien la divine amie,
+Nous dévisage et nous sourit
+
+
+Cette présence qui fait aussi,
+Une existence de ma vie
+C’est la vie, la vie, la vie oh, la vie é
+Elle est bien la divine amie,
+Je me sens père ça me ravit
+C’est la vie, la vie, la vie oh, la vie é
+Elle est bien la divine amie,
+Me donne des ailes et me ravit

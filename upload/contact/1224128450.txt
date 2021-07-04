@@ -1,0 +1,25 @@
+C#
+=========
+ public static MySqlConnection  getconnexion()
+        {
+            try
+            {
+                //declaration de la variable de connexion
+                MySqlConnection connection = new MySqlConnection("server=localhost;userid=root;password='';database=patajob");
+                connection.Open();
+                if (connection.State == ConnectionState.Open)
+                {
+                    MessageBox.Show("connexion avec sucès");
+                    return connection;
+                }
+                else
+                {
+                    MessageBox.Show("échec de la connexion");
+                    
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }

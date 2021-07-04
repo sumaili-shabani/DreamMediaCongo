@@ -1,0 +1,39 @@
+.color-1 {background: #151551;}
+.color-2  {background: #0170bf;}
+.color-3 {background: #0170bf;}
+.color-4 {background: #fe0002;}
+.color-5 {background: #fe0002;}
+.color-6 {background: #fe0000;}
+.color-7 {background: #E71838;}
+.color-8 {background: #0170bf;}
+.color-9 {background: #fd0005;}
+.color-10 {background: #ff6642;}
+
+.border-1 {border-bottom: 2px solid #151551;}
+.border-2 {border-bottom: 2px solid #0170bf;}
+.border-3 {border-bottom: 2px solid #0099cc;}
+.border-4 {border-bottom: 2px solid #fe0000;}
+.border-5 {border-bottom: 2px solid #fe0002;}
+.border-6 {border-bottom: 2px solid #fd7d1e;}
+.border-7 {border-bottom: 2px solid #E71838;}
+.border-8 {border-bottom: 2px solid #0170bf;}
+.border-9 {border-bottom: 2px solid #fd0005;}
+
+.border__1 {border-top: 4px solid #151551;}
+.border__2 {border-top: 4px solid #5fa03f;}
+.border__3 {border-top: 4px solid #0099cc;}
+.border__4 {border-top: 4px solid #e89319;}
+.border__5 {border-top: 4px solid #72347d;}
+.border__6 {border-top: 4px solid #ffcc00;}
+.border__7 {border-top: 4px solid #E71838;}
+.border__8 {border-top: 4px solid #111111;}
+@media (max-width: 768px) {
+  .border__1 ,
+  .border__2 ,
+  .border__3 ,
+  .border__4 ,
+  .border__5 ,
+  .border__6 ,
+  .border__7 ,
+  .border__8 {border-top: 0;}
+}
